@@ -1,5 +1,7 @@
 # Hollywood-Movies-Dashboard
-This is my project in 
+This is my project of analysis the performance of Hollywood movies on R and Power BI.
+An Initial exploratory analysis on R to load csv document and the process of clean the data on Studio.
+Finally import cleaned data into PowerBi. The dashboards represent an analysis of 1. Average tomato per genre. 2. Record of movies per year. 3. The audience per film. 4. The profitability per studio. 5. Worldwide per genre 
 
 Hollywood movies from 2007 to 2012
 This is my repo for Data Analysis Projects 
